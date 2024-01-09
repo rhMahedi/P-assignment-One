@@ -124,7 +124,7 @@ body {
 
 }
 
-.join {
+/* .join {
   color: #FFF;
   text-align: center;
   font-family: Inter;
@@ -133,9 +133,20 @@ body {
   font-weight: 700;
   line-height: normal;
   text-transform: uppercase;
-  margin-left: 160px;
+  margin-right: 190px;
+} */
+.joi{
+  color: #FFF;
+text-decoration: none;
+margin-left: 150px;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
 }
-
 /* start 3 section  */
 .section-the {
   width: 100%;
@@ -215,6 +226,10 @@ body {
   width: 100%;
   max-width: 463px;
   height: 463px;
+  align-items: center;
+  
+}
+.perant-div-img{
   text-align: center;
 }
 
@@ -242,6 +257,25 @@ body {
   font-size: 20px;
   font-weight: 400;
   line-height: 32px;
+  text-align: left;
+}
+.twenty-r{
+  text-align:left;
+  color: #F00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+
+}
+.dolor-jo{
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align:left;
+}
+.sr-c{
   text-align: left;
 }
 
